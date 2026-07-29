@@ -1,0 +1,3 @@
+dir diretorio
+ls-lista de arquivos
+ls -a - lista os arquivos ocultos
