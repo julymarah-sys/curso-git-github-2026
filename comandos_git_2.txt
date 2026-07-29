@@ -1,0 +1,9 @@
+escrevendo outros comandos dentro do arquivo
+
+git int 
+git status
+git add
+git commit -m "msg"
+
+para salvar ctrl + o 
+para sair ctrl + x
