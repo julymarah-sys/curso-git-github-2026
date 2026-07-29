@@ -4,6 +4,5 @@ git int
 git status
 git add
 git commit -m "msg"
+git log 
 
-para salvar ctrl + o 
-para sair ctrl + x
