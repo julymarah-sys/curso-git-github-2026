@@ -6,3 +6,5 @@ git add
 git commit -m "msg"
 git log 
 
+aula 3 como saber o que foi modificado ou apagado?
+git diff
