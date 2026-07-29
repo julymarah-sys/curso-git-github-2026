@@ -5,3 +5,5 @@ para salvar ctrl + o
 para sair ctrl + x
 rm -rf remove de forma recursiva e forçada
 teste aula 3
+
+git resert  test
