@@ -8,3 +8,5 @@ git log
 
 aula 3 como saber o que foi modificado ou apagado?
 git diff
+
+git resert  test
