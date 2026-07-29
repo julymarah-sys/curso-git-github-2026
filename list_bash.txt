@@ -4,3 +4,4 @@ ls -a - lista os arquivos ocultos
 para salvar ctrl + o 
 para sair ctrl + x
 rm -rf remove de forma recursiva e forçada
+teste aula 3
