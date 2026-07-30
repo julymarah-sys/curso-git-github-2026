@@ -1,3 +1,5 @@
 teste do comando secundario
 
 observar se essa frase irá aparecer no branch main ao retornar.
+
+levar somente essa frase para o commit main (faça esse commit e depois outro)
